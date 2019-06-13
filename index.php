@@ -1,7 +1,7 @@
 <?php
 
 
-echo "git linked in github";
+echo "sssgit linked in github";
 
 echo "add sth in github editor";
 #clone 后的编辑
